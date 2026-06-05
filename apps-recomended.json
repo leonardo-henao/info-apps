@@ -3,7 +3,7 @@
     "name_es": "Limpiador de memoria",
     "name_en": "Memory cleaner",
     "market": "PlayStore",
-    "url": "com.ds.memorycleaner",
+    "url": "com.wappcorp.mmc",
     "description_es": "El mejor limpiador de memoria para Android. Elimina todos los datos y archivos innecesarios de la memoria con un solo click.",
     "description_en": "The best memory cleaner for Android. Removes all unnecessary data and files from memory with a single click.",
     "logo": "https://limpiador-de-memoria.vercel.app/icon.png"
